@@ -2,7 +2,7 @@
  :deps {
         io.github.kotoba-lang/log-log
         {:git/url "https://github.com/kotoba-lang/log-log.git"
-         :git/sha "e642e7d93e314cca5b177d0fc72ac9dfdc65f9ee"}}
+         :git/sha "e766397aae356b11b66813ac8d1de900d6be65f6"}}
  :aliases
  {:test {:extra-paths ["test"]
          :extra-deps {io.github.cognitect-labs/test-runner
